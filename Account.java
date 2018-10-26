@@ -9,6 +9,7 @@
     char acctType ;
     float acctBal;
     int minBal;
+    */ should add this int SocialSecurity; */
 
   Account () {
     acctName = "John/Jane Doe";
